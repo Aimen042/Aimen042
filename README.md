@@ -40,9 +40,6 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 
 ### `Tech-stack`
 
-<table>
-<tr>
-<td>
 **Languages**
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -89,9 +86,6 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 </p>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -107,5 +101,5 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aimen-a-65a259267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aimenabdullah65@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-FBBC05?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"></a>
+  <a href="mailto:aimenabdullah65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
