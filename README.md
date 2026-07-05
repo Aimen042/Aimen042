@@ -4,12 +4,6 @@
 <tr>
 <td>
 
-```
- ● ● ●                                          aimen@karachi:~
-```
-```bash
-$ whoami
-```
 ```yaml
 Aimen Abdullah — CS Undergraduate @ Bahria University Karachi Campus
 Focus: Full-Stack Development | Data Science | SQA & Test Automation
@@ -22,25 +16,17 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LOCATION-KARACHI%2C%20PK-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/BUILD-PASSING-00CED1?style=for-the-badge&logo=circleci&logoColor=white&labelColor=0d1117" />
-</p>
-
----
-
-### `$ ls -la experience/`
+### `$ Experience/`
 
 | Role | Company | Stack |
 |---|---|---|
-| Web Developer (Intern) | SoftGrowTech | React, Node.js, SQL Server |
-| Data Science Intern | DecodeLabs | Python, ML/NLP tooling |
-| Front-End Developer (Intern) | InternnCraft | React, JS |
+| Web Developer | SoftGrowTech | React, Node.js, Express.js, JWT Authentication, API Integration, RESTful API Design, Hashing, SQL Server, API Testing |
+| Data Science Intern | DecodeLabs | Python, ML/NLP tooling, Scikit-learn (model building), Data cleaning & preprocessing, Exploratory Data Analysis (EDA), Feature engineering |
+| Front-End Developer | InternnCraft | HTML5 & CSS3, Bootstrap, Component-based architecture, Cross-browser compatibility, Responsive design |
 
 ---
 
-### `$ ls -la featured_repos/`
+### `$ Featured_repos/`
 
 - 🕵️ **[Transaction-Fraud-Detection](https://github.com/Aimen042/Transaction-Fraud-Detection)** — ML project detecting fraudulent transactions
 - 📦 **[DSA-Project](https://github.com/Aimen042/DSA-Project)** — Parcel delivery system using Graphs, Linked Lists & BST
@@ -49,56 +35,58 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 
 ---
 
-### `$ neofetch --tech-stack`
+### `$ Tech-stack`
 
 **Languages**
 <p align="left">
-<img src="https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-00BFFF?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00CED1?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4682B4?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-5F9EA0?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
 
 **Frontend**
 <p align="left">
-<img src="https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-1E90FF?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-4682B4?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
 **Backend**
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-1E90FF?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/FastAPI-00CED1?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-DB1B00?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 **Databases**
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-4682B4?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-1E90FF?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
 <p align="left">
-<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Docker-1E90FF?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-00BFFF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-4682B4?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
 ### `$ git log --stats`
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aimen042&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00BFFF&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen042&layout=compact&theme=tokyonight&hide_border=true&icon_color=00BFFF&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimen042&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00CED1&currStreakLabel=00BFFF" />
@@ -109,10 +97,5 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 ### `$ contact --list`
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <sub>⚡ Fun fact: this README has better documentation than most of my group projects.</sub>
+  <a href="https://www.linkedin.com/in/aimen-a-65a259267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
