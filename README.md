@@ -89,14 +89,6 @@ GPA: 3.82  |  Graduating: 2026  |  Location: Karachi, Pakistan
 
 ---
 
-### `git log stats`
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimen042&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00CED1&currStreakLabel=00BFFF" />
-</p>
-
----
-
 ### `Contact List`
 
 <p align="center">
